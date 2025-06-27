@@ -1,0 +1,1797 @@
+fileFormatVersion: 2
+guid: 47ad0a63ac206624ebe54b434ed94345
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8314753626236393387
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_0
+  - first:
+      213: 8605503790092142365
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_1
+  - first:
+      213: -3791031013019635824
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_2
+  - first:
+      213: 4528850656384011244
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_3
+  - first:
+      213: 5266443685760410183
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_4
+  - first:
+      213: -1766953945556242085
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_5
+  - first:
+      213: -8118505687340004024
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_6
+  - first:
+      213: 1952567043759316304
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_7
+  - first:
+      213: 9059434659536137081
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_8
+  - first:
+      213: 2610861321570417656
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_9
+  - first:
+      213: -5788371423583280490
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_10
+  - first:
+      213: 2626031251211878825
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_11
+  - first:
+      213: -2903848653712873908
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_12
+  - first:
+      213: 3582587074947775677
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_13
+  - first:
+      213: -1865804272792979389
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_14
+  - first:
+      213: 1478786940219436297
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_15
+  - first:
+      213: 3645497198256891938
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_16
+  - first:
+      213: 1439683486158168955
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_17
+  - first:
+      213: -1719842357828583856
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_18
+  - first:
+      213: -1871642193948978420
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_19
+  - first:
+      213: 7376745975923079085
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_20
+  - first:
+      213: 1245758654737126238
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_21
+  - first:
+      213: 6560929631192801605
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_22
+  - first:
+      213: 8420792515866542164
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_23
+  - first:
+      213: 5186165251695804360
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_24
+  - first:
+      213: -6906291972098882870
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_25
+  - first:
+      213: 6896983839302534711
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_26
+  - first:
+      213: 3411960197912652367
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_27
+  - first:
+      213: 2687457937085733761
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_28
+  - first:
+      213: 3544557792196648966
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_29
+  - first:
+      213: -5286020408303746033
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_30
+  - first:
+      213: -1157322712613195970
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_31
+  - first:
+      213: -743381117045052760
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_32
+  - first:
+      213: -2801848473220360573
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_33
+  - first:
+      213: 2036287905871618663
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_34
+  - first:
+      213: 2938184919481346876
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_35
+  - first:
+      213: 664350400197275791
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_36
+  - first:
+      213: 2766465347975533652
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_37
+  - first:
+      213: -919620307644192052
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_38
+  - first:
+      213: -8258424091391956440
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_39
+  - first:
+      213: 6700845000745588809
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_40
+  - first:
+      213: 6674798767797423828
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_41
+  - first:
+      213: 9083842771978381965
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_42
+  - first:
+      213: -1493163346938423503
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_43
+  - first:
+      213: -4243618395811058994
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_44
+  - first:
+      213: -8126685467726190709
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_45
+  - first:
+      213: 6723016959851973607
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_46
+  - first:
+      213: 7288893236239256511
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_47
+  - first:
+      213: 8178390352093968326
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_48
+  - first:
+      213: -6999421595897092670
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_49
+  - first:
+      213: 3954008636822404945
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_50
+  - first:
+      213: -6305448345886712037
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_51
+  - first:
+      213: 7582834989096329817
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_52
+  - first:
+      213: -8764739158131700918
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_53
+  - first:
+      213: -8925286069641995338
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_54
+  - first:
+      213: 6824259289427555853
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_55
+  - first:
+      213: 5115644685181489731
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_56
+  - first:
+      213: 2531653984159114282
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_57
+  - first:
+      213: 8642691607380870706
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_58
+  - first:
+      213: 3137279181894654102
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+      1_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba716be9e50f36370800000000000000
+      internalID: 8314753626236393387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 5
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1748b96a14ec6770800000000000000
+      internalID: 8605503790092142365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fa970216d836bc0800000000000000
+      internalID: -3791031013019635824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb40965da5b9de30800000000000000
+      internalID: 4528850656384011244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742295f11aa261940800000000000000
+      internalID: 5266443685760410183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5135ac8fb48a77e0800000000000000
+      internalID: -1766953945556242085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 4
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d4c1f4716455f80800000000000000
+      internalID: -8118505687340004024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 3
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d98639169e81b10800000000000000
+      internalID: 1952567043759316304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_8
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 68
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b638be2d399bd70800000000000000
+      internalID: 9059434659536137081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_9
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 69
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbf20ef984ab3420800000000000000
+      internalID: 2610861321570417656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_10
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 132
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692eb4dbbd29bafa0800000000000000
+      internalID: -5788371423583280490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_11
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 132
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a10f897289817420800000000000000
+      internalID: 2626031251211878825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 61
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46a2f1e80573b7d0800000000000000
+      internalID: -2903848653712873908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 61
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcfa2b96f7e7b130800000000000000
+      internalID: 3582587074947775677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 61
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348b4cb36e45b16e0800000000000000
+      internalID: -1865804272792979389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 61
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d244e13e4b58410800000000000000
+      internalID: 1478786940219436297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 61
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228a8cb1368679230800000000000000
+      internalID: 3645497198256891938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 61
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73247db088caf310800000000000000
+      internalID: 1439683486158168955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_18
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 61
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ef4f7dc74e128e0800000000000000
+      internalID: -1719842357828583856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_19
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 61
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03d90b47579606e0800000000000000
+      internalID: -1871642193948978420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_20
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 61
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7ff25a1677f5660800000000000000
+      internalID: 7376745975923079085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_21
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 61
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53997b65e2d94110800000000000000
+      internalID: 1245758654737126238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_22
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 61
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541e49ffcba1d0b50800000000000000
+      internalID: 6560929631192801605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 61
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4504e7b8d2aacd470800000000000000
+      internalID: 8420792515866542164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 93
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf7dc5a1d5f8f740800000000000000
+      internalID: 5186165251695804360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_25
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 93
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac20aefda0ce720a0800000000000000
+      internalID: -6906291972098882870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 93
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736cc33924207bf50800000000000000
+      internalID: 6896983839302534711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_27
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 93
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aea5009b7b95f20800000000000000
+      internalID: 3411960197912652367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_28
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 93
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b9cc841c4cb4520800000000000000
+      internalID: 2687457937085733761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 93
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60069b9388cc03130800000000000000
+      internalID: 3544557792196648966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 93
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f040797f17844a6b0800000000000000
+      internalID: -5286020408303746033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 93
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fe238ef1d50ffe0800000000000000
+      internalID: -1157322712613195970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 93
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaebc900dafea5f0800000000000000
+      internalID: -743381117045052760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_33
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 93
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386da3f88a5dd19d0800000000000000
+      internalID: -2801848473220360573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 93
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762e6e9cf09524c10800000000000000
+      internalID: 2036287905871618663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 93
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b681afd9786c820800000000000000
+      internalID: 2938184919481346876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_36
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 124
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80b52a4b2f383900800000000000000
+      internalID: 664350400197275791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_37
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 125
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454528d9395746620800000000000000
+      internalID: 2766465347975533652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_38
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 125
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccae1aad33adc33f0800000000000000
+      internalID: -919620307644192052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_39
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 125
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82aed0c3b0f246d80800000000000000
+      internalID: -8258424091391956440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_40
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 125
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948946c860f2efc50800000000000000
+      internalID: 6700845000745588809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_41
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 125
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dec7cd5d16a1ac50800000000000000
+      internalID: 6674798767797423828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_42
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 125
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a65437fda401e70800000000000000
+      internalID: 9083842771978381965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_43
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 125
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1371a1ad8d7374be0800000000000000
+      internalID: -1493163346938423503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_44
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 125
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca6e5b7d83ab15c0800000000000000
+      internalID: -4243618395811058994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 125
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87e9d6cf96383f80800000000000000
+      internalID: -8126685467726190709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_46
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 125
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb47ee0e44fc4d50800000000000000
+      internalID: 6723016959851973607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_47
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 125
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbc9c7b7c9572560800000000000000
+      internalID: 7288893236239256511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 157
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7fa0bb1ba7f7170800000000000000
+      internalID: 8178390352093968326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_49
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 157
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c52b5f942f0dde90800000000000000
+      internalID: -6999421595897092670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_50
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 157
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f30ace7e57fd630800000000000000
+      internalID: 3954008636822404945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_51
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 157
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f19d9132c8e78a0800000000000000
+      internalID: -6305448345886712037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 157
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9526d7b3f34ab3960800000000000000
+      internalID: 7582834989096329817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_53
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 157
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b8a9a5c246d5680800000000000000
+      internalID: -8764739158131700918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_54
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 157
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb1f3c9b93032480800000000000000
+      internalID: -8925286069641995338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_55
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 157
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d063d71daa3a4be50800000000000000
+      internalID: 6824259289427555853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_56
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 157
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3429b51ccbb6ef640800000000000000
+      internalID: 5115644685181489731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_57
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 157
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24a104a2ed322320800000000000000
+      internalID: 2531653984159114282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_58
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 157
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236cf29d93201f770800000000000000
+      internalID: 8642691607380870706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies
+        1_59
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 157
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6981f0e3bcad98b20800000000000000
+      internalID: 3137279181894654102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_0: 8314753626236393387
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_1: 8605503790092142365
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_10: -5788371423583280490
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_11: 2626031251211878825
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_12: -2903848653712873908
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_13: 3582587074947775677
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_14: -1865804272792979389
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_15: 1478786940219436297
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_16: 3645497198256891938
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_17: 1439683486158168955
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_18: -1719842357828583856
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_19: -1871642193948978420
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_2: -3791031013019635824
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_20: 7376745975923079085
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_21: 1245758654737126238
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_22: 6560929631192801605
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_23: 8420792515866542164
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_24: 5186165251695804360
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_25: -6906291972098882870
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_26: 6896983839302534711
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_27: 3411960197912652367
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_28: 2687457937085733761
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_29: 3544557792196648966
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_3: 4528850656384011244
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_30: -5286020408303746033
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_31: -1157322712613195970
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_32: -743381117045052760
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_33: -2801848473220360573
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_34: 2036287905871618663
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_35: 2938184919481346876
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_36: 664350400197275791
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_37: 2766465347975533652
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_38: -919620307644192052
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_39: -8258424091391956440
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_4: 5266443685760410183
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_40: 6700845000745588809
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_41: 6674798767797423828
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_42: 9083842771978381965
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_43: -1493163346938423503
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_44: -4243618395811058994
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_45: -8126685467726190709
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_46: 6723016959851973607
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_47: 7288893236239256511
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_48: 8178390352093968326
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_49: -6999421595897092670
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_5: -1766953945556242085
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_50: 3954008636822404945
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_51: -6305448345886712037
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_52: 7582834989096329817
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_53: -8764739158131700918
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_54: -8925286069641995338
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_55: 6824259289427555853
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_56: 5115644685181489731
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_57: 2531653984159114282
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_58: 8642691607380870706
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_59: 3137279181894654102
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_6: -8118505687340004024
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_7: 1952567043759316304
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_8: 9059434659536137081
+      PC Computer - Touhou Fuujinroku Mountain of Faith - Bosses and Enemies 1_9: 2610861321570417656
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
