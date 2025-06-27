@@ -10,7 +10,7 @@ public class controladorConb : MonoBehaviour
 
     [SerializeField] private float radioGolpe;
 
-    [SerializeField] private float dañoGolpe;
+    [SerializeField] private float daÃ±oGolpe;
 
     [SerializeField] private float tiempoEntreAtaques;
 
@@ -41,23 +41,20 @@ public class controladorConb : MonoBehaviour
 
     }
 
-    private void Golpe()
+   private void Golpe()
+{
+    animator.SetTrigger("Golpe");
+
+    Collider2D[] objetos = Physics2D.OverlapCircleAll(controladorGolpe.position, radioGolpe);
+
+    foreach (Collider2D colisionador in objetos)
     {
-        animator.SetTrigger("Golpe");
+        if (!colisionador.CompareTag("Enemigo"))
+            continue;
 
-        Collider2D[] objetos = Physics2D.OverlapCircleAll(controladorGolpe.position, radioGolpe);
-
-        foreach (Collider2D colisionador in objetos)
-        {
-            if (colisionador.CompareTag("Enemigo"))
-            {
-                colisionador.transform.GetComponent<Enemigo>().TomarDaño(dañoGolpe);
-            }
-
-
-        }
-
+        colisionador.transform.GetComponent<Enemigo>().TomarDaÃ±o(daÃ±oGolpe);
     }
+}
 
     private void OnDrawGizmos()
     {
