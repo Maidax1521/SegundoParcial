@@ -23,11 +23,7 @@ public class ControlDeFuego : MonoBehaviour {
             tiempoDeCarga += Time.deltaTime;
         
         }
-
-
-        
-
-
+	    
         if (Input.GetButtonUp("Fire1"))
         {
             
